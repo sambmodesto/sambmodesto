@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil! Meu nome é Samuel.
+## Hello! I'm Sam, welcome to my profile!
 
  <div>
    <a href="https://github.com/sambmodesto">
